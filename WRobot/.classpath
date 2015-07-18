@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="socket.io"/>
+	<classpathentry kind="src" path="JSON"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/ampaiva/git/java-socket.io.client/socket.io.client/Java-WebSocket-v0.6-0/dist/WebSocket.jar"/>
+	<classpathentry kind="lib" path="lib/netty-all-5.0.0.Alpha2.jar" sourcepath="lib/netty-all-5.0.0.Alpha2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/WRobot/lib/netty-all-5.0.0.Alpha2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/Extasys.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/code/workspace/WRobot/lib/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
